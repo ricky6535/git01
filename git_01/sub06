@@ -1,0 +1,84 @@
+---
+title: "git_01"
+author: "Ricardo Zauceda"
+date: "September 11, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!--> 
+'Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+
+'Beware the Jabberwock, my son!  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+Two roads diverged in a yellow wood,    
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+"The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright —   
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done —  
+"It's very rude of him," she said,  
+"To come and spoil the fun."  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+'Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,   
+And the mome raths outgrabe.  
+
+'Beware the Jabberwock, my son!  
+The jaws that bite, the claws that catch!  
+Beware the Jubjub bird, and shun  
+The frumious Bandersnatch!'  
+
+He took his vorpal sword in hand:  
+Long time the manxome foe he sought --  
+So rested he by the Tumtum tree,  
+And stood a while in thought.  
+
+And, as in uffish thought he stood,  
+The Jabberwock, with eyes of flame,  
+Came whiffling through the tulgey wood,  
+And burbled as it came!  
+
+One two! One two! And through and through  
+The vorpal blade went snicker-snack!  
+He left it dead, and with its head  
+He went galumphing back.  
+
+'And hast thou slain the Jabberwock?  
+Come to my arms, my beamish boy!  
+Oh frabjous day! Callooh! Callay!'  
+He chortled in his joy.  
+
+'Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe  
